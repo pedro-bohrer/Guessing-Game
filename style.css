@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(blue, red);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+main{
+    background-image: linear-gradient(blue, red);
+    padding: 25%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: aliceblue;
+    gap: 10px;
+}
+footer {
+    background-color: red;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
